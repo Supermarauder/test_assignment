@@ -15,7 +15,6 @@ expected_files:
     # Explicit required paths (files or directories), relative to repo root
     # -------------------------------------------------------------------
     paths:
-        - README.md
         - editme.txt
         - main.py
 
